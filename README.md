@@ -8,8 +8,8 @@ pub struct Vec2 {
     pub y: f32,
 }
 ```
-This is literally just a 2D Vector
 
+This is literally just a 2D Vector
 
 Position → (x, y)
 

@@ -1,0 +1,17 @@
+# Rust build output
+**/target/
+
+# Backup files from rustfmt
+**/*.rs.bk
+
+# MSVC debug symbols
+*.pdb
+
+# Cargo mutants
+**/mutants.out*/
+
+# Env files
+.env
+
+# JetBrains (optional)
+#.idea/
